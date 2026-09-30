@@ -1,0 +1,6 @@
+{
+  "name": "WORLD TRAVEL",
+  "description": "Intelligent worldwide travel agency platform. Your World. Your Budget. Your Journey. Discover, compare, plan, and book suitable trips with smart budget breakdowns, flight & hotel comparison, same-day return feasibility analysis, and personalized itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
